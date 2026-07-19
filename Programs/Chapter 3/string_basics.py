@@ -13,8 +13,3 @@ print("Concatenated string:", str1 + " " + str2)
 
 # length of string
 print("Length  of str1:", len(str1))
-
-# strings slicing
-print("First 5 characters of str1:", str1[0:5])
-print("First 6 characters of str1:", str1[:6])
-print("from 6th index to end of str1:", str1[5:])
