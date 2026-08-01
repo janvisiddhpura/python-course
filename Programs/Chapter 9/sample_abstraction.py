@@ -28,6 +28,10 @@ class Goat(Animal):
     def sound(self):
         print("Goat sound: Baeeeee!")
 
-animals = [Dog(), Cat(), Cow(), Goat()]
+class Pig(Animal):
+    def sound(self):
+        print("Pig sound: Oink!")
+
+animals = [Dog(), Cat(), Cow(), Goat(), Pig()]
 for animal in animals:
     animal.sound()
