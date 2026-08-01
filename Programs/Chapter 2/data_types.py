@@ -6,3 +6,4 @@ name = "John"
 print("Data type of name:", type(name))
 print("Data type of age:", type(age))
 print("Data type of area:", type(area))
+print("Data type of food:", type(food))
