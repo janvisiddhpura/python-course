@@ -128,19 +128,13 @@ It is especially useful for beginners who want a simple and structured path to b
 ```bash
 git clone https://github.com/janvisiddhpura/python-course.git
 cd python-course
+cd chapter-folder
 python filename.py
-```
-
-If the project contains folders for topics:
-
-```bash
-cd basics
-python variables.py
 ```
 
 ---
 
-## 🛠️ Practice Projects
+## 🛠️ Future Practice Projects
 
 - 🧮 Calculator
 - ✅ To-Do List
