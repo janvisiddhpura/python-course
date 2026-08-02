@@ -35,7 +35,6 @@ It is especially useful for beginners who want a simple and structured path to b
 - 📦 Lists, tuples, sets, and dictionaries
 - 🧠 Functions and modules
 - 🗂️ File handling
-- ⚠️ Exception handling
 - 🏗️ Object-oriented programming
 - 💡 Problem-solving through practice programs
 
