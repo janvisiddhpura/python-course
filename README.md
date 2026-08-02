@@ -43,44 +43,84 @@ It is especially useful for beginners who want a simple and structured path to b
 
 ## 📚 Course Structure
 
-### 1. Basics
-- Installing Python
-- First program
-- Variables and data types
-- Input and output
+### 1. Introduction to Python
+- Writing your first Python program
+- Printing output
+- Multiple print statements
+- Basic program execution
+
+### 2. Variables & Data Types
+- Variables
+- User input
+- Code execution
+- Basic calculations
+
+### 3. Data Types, Type Conversion, Keywords & Operators
+- Python data types
+- Type checking
+- Implicit type conversion
+- Explicit type conversion
+- Python keywords
 - Operators
+- Practice programs
 
-### 2. Control Flow
-- if, elif, else
-- for loops
-- while loops
-- break and continue
+### 4. Strings
+- String basics
+- String indexing & slicing
+- String methods
+- Practical string-based problems
 
-### 3. Data Structures
+### 5. Conditional Statements, Lists & Tuples
+- if, elif & else statements
+- Number checking programs
 - Lists
+- Dynamic lists
+- List methods
 - Tuples
+
+### 6. Dictionaries & Sets
+- Dictionary basics
+- Accessing dictionary values
 - Sets
-- Dictionaries
-- Strings
+- Language selection example
+- Dictionary & set operations
 
-### 4. Functions
-- Defining functions
-- Arguments and return values
-- Lambda functions
-- Scope
+### 7. Loops
+- for loops
+- range()
+- Loop basics
+- Number patterns
+- Multiplication table
+- Even & odd number programs
+- Countdown timer
+- Nested loops
 
-### 5. Advanced Topics
-- File handling
-- Exception handling
-- Modules
-- Classes and objects
-- Inheritance
+### 8. Functions
+- Function basics
+- Parameters & arguments
+- Return values
+- Modular programming
+- Practice programs using functions
 
-### 6. Practice Files
-- Small coding exercises
-- Logic-based problems
-- Mini projects
-- Revision programs
+### 9. File Handling
+- Reading text files
+- Writing to files
+- File modes
+- Finding data in files
+- Counting lines
+- File utility programs
+
+### 10. Object-Oriented Programming (OOP)
+- Classes & objects
+- Constructors
+- Encapsulation (Getters & Setters)
+- Abstraction
+- Polymorphism
+- Working with custom classes
+
+### 🚀 Projects
+- AI Study Chatbot
+- Expense Tracker
 
 ---
 
@@ -97,37 +137,6 @@ If the project contains folders for topics:
 ```bash
 cd basics
 python variables.py
-```
-
----
-
-## 🗂️ Suggested Repo Layout
-
-```text
-python-course/
-├── basics/
-│   ├── variables.py
-│   ├── data_types.py
-│   └── operators.py
-├── control_flow/
-│   ├── if_else.py
-│   ├── loops.py
-│   └── patterns.py
-├── data_structures/
-│   ├── lists.py
-│   ├── dictionaries.py
-│   └── sets.py
-├── functions/
-│   ├── functions.py
-│   └── modules.py
-├── oops/
-│   ├── classes.py
-│   └── inheritance.py
-├── projects/
-│   ├── calculator.py
-│   ├── quiz_game.py
-│   └── todo_app.py
-└── README.md
 ```
 
 ---
