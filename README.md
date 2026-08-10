@@ -37,6 +37,7 @@ It is especially useful for beginners who want a simple and structured path to b
 - 🗂️ File handling
 - 🏗️ Object-oriented programming
 - 💡 Problem-solving through practice programs
+- 🛠 Projects
 
 ---
 
@@ -120,6 +121,9 @@ It is especially useful for beginners who want a simple and structured path to b
 ### 🚀 Projects
 - AI Study Chatbot
 - Expense Tracker
+- Text Editor
+- Digital Clock
+- Photo Album
 
 ---
 
@@ -136,7 +140,6 @@ python filename.py
 
 ## 🛠️ Future Practice Projects
 
-- 🧮 Calculator
 - ✅ To-Do List
 - 🎮 Quiz Game
 - 🔢 Number Guessing Game
