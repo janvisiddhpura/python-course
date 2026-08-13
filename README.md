@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <b>A practical Python learning repository with examples, exercises, and mini projects.</b>
+  <b>A practical Python learning repository with examples chapter-wise.</b>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ## 🚀 About
 
-This repository is designed for learning Python step by step through code examples, practice files, and small projects.  
+This repository is designed for learning Python step by step through chapter-wise code practice program files.  
 It is especially useful for beginners who want a simple and structured path to build confidence in Python programming.
 
 ---
@@ -37,7 +37,6 @@ It is especially useful for beginners who want a simple and structured path to b
 - 🗂️ File handling
 - 🏗️ Object-oriented programming
 - 💡 Problem-solving through practice programs
-- 🛠 Projects
 
 ---
 
@@ -118,13 +117,6 @@ It is especially useful for beginners who want a simple and structured path to b
 - Polymorphism
 - Working with custom classes
 
-### 🚀 Projects
-- AI Study Chatbot
-- Expense Tracker
-- Text Editor
-- Digital Clock
-- Photo Album
-
 ---
 
 ## 💻 How To Run
@@ -151,12 +143,11 @@ python filename.py
 
 ## 📌 Credits
 
-A significant part of the program files in this repository is inspired by a Python tutorial playlist available on YouTube. 🎥🐍
+A significant part of the files in this repository is inspired by a Python tutorial playlists available on YouTube. 🎥🐍
 
 You can watch the referenced video here:  
 [Python Tutorial Playlist](https://www.youtube.com/watch?v=D9lQC-sN6Tc&list=PLbFNFX9bmkDo&index=3)
-
----
+cd---
 
 ## 🤝 Contributing
 
