@@ -147,7 +147,6 @@ A significant part of the files in this repository is inspired by a Python tutor
 
 You can watch the referenced video here:  
 [Python Tutorial Playlist](https://www.youtube.com/watch?v=D9lQC-sN6Tc&list=PLbFNFX9bmkDo&index=3)
-cd---
 
 ## 🤝 Contributing
 
